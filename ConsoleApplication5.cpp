@@ -19,7 +19,7 @@ public:
     {
         cout <<  "name: " << this->name << endl;
         cout << "balance: " << this->balance <<  "$" << endl;
-        cout << "id:😘 " << this->acount_num << endl;
+        cout << "id: " << this->acount_num << endl;
         cout << endl;
     }
     void add(double money)
